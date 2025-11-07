@@ -26,7 +26,7 @@ This project focuses on DOM manipulation, game logic, and responsive UI.
 
 ## 📂 Project Structure
 
-tic-tac-toe/ │ ├── index.html ├── style.css └── script.js
+tic-tac-toe/ │ ├── index.html ├── style.css └── app.js
 
 ---
 
